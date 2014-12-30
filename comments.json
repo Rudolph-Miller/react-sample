@@ -1,0 +1,4 @@
+[
+    {author: "Tom", text: "This is one comment."},
+    {author: "Peter", text: "This is another comment."}
+];
